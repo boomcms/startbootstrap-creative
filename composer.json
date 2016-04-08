@@ -1,0 +1,15 @@
+{
+    "name": "boomcms/startbootstrap-creative",
+    "description": "Start Bootstrap creative theme migrated as a BoomCMS theme",
+    "type": "boomcms-theme",
+    "require": {
+        "boomcms/boom-core": ">=5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rob Taylor",
+            "email": "robbytaylor@users.noreply.github.com"
+        }
+    ]
+}
