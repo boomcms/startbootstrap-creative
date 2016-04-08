@@ -199,6 +199,19 @@ header .header-content .header-content-inner p {
     margin-right: auto;
   }
 }
+#about p {
+  color: rgba(255, 255, 255, 0.7);
+}
+#about a {
+  background-color: #fff;
+  border-radius: 300px;
+  font-weight: 700;
+  padding: 15px 30px;
+  color: #000;
+}
+#about hr {
+  border-color: white;
+}
 .section-heading {
   margin-top: 0;
 }
